@@ -6,7 +6,7 @@
     <StartupObject>AnyStatus.Apps.Windows.Program</StartupObject>
     <TargetFramework>net6.0-windows10.0.19041</TargetFramework>
     <Platforms>x86;x64</Platforms>
-    <PlatformTarget>$(Platform)</PlatformTarget>
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <RuntimeIdentifiers>win-x86;win-x64</RuntimeIdentifiers>
     <AssemblyName>AnyStatus</AssemblyName>
     <ApplicationIcon>App.ico</ApplicationIcon>
